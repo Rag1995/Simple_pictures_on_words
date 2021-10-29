@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <b-navbar type="dark" variant="dark" class="px-4 font-weight-bold">
-      <b-navbar-brand> 圖片批次上字 </b-navbar-brand>
+      <b-navbar-brand> 簡單圖片上字 </b-navbar-brand>
 
       <b-navbar-nav class="ml-auto">
         <b-nav-item
